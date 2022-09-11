@@ -9,7 +9,7 @@ const wickedcssPlugin = plugin(({ addUtilities }) => {
       utilities: 'barrelroll 0.4s ease 1',
       keyframes: {
         from: { transform: 'rotate(0)' },
-        to: { transform: 'rotate(360)' },
+        to: { transform: 'rotate(360deg)' },
       },
     },
     'bounce-in': {
@@ -113,7 +113,7 @@ const wickedcssPlugin = plugin(({ addUtilities }) => {
       },
     },
     'rotate-in': {
-      utilities: 'rotatein 3s ease 1 center',
+      utilities: 'rotatein 3s ease 1',
       keyframes: {
         '0%': {
           transform: 'rotate3d(0, 0, 1, -720deg)',
