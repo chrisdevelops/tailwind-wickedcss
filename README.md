@@ -1,5 +1,5 @@
 # tailwind-wickedcss
-A simple tailwind plugin that adds WickedCSS animations developed by Kristoffer Andreasen to your project.
+A simple tailwind plugin that adds WickedCSS animations by Kristoffer Andreasen to your project.
 
 ## Important Information
 Tailwindcss >= v3.0.24 is required.
