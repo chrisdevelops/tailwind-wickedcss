@@ -7,15 +7,12 @@ Tailwindcss >= v3.0.24 is required.
 ## Installation
 Ensure tailwindcss is installed first, instructions can be found at https://tailwindcss.com/docs/installation.
 
-Install the wickedcss plugin via npm or yarn
+Install the wickedcss plugin via npm.
 ```
 npm install --save-dev tailwind-wickedcss
 ```
-```
-yarn add tailwind-wickedcss
-```
 
-Add the plugin to your `tailwind.config.js` file
+Add the plugin to your `tailwind.config.js` file.
 ```
 plugins: [
   // Other plugins
