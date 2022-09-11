@@ -1,0 +1,27 @@
+{
+  "name": "tailwind-wickedcss",
+  "version": "1.0.0",
+  "description": "A simple tailwind plugin that adds WickedCSS animations by Kristoffer Andreasen to your project.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisdevelops/tailwind-wickedcss.git"
+  },
+  "keywords": [
+    "wickedcss",
+    "css",
+    "tailwind",
+    "tailwindcss",
+    "animations",
+    "plugin"
+  ],
+  "author": "chrisdevelops",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisdevelops/tailwind-wickedcss/issues"
+  },
+  "homepage": "https://github.com/chrisdevelops/tailwind-wickedcss#readme"
+}
